@@ -1,0 +1,16 @@
+cb1e80c1173719ac95fac479bd3274b4 *DESCRIPTION
+bfe7482b5ce7dfca2eb59d040860820a *NAMESPACE
+fdeac7a66702ac6572c0bc8c5043cfea *R/ShowStartupMessage.R
+d0bfe3d11b1baae616a20acd583840de *R/logisLateDicrease.R
+aeb0e2bd98dbf1ee8eda49b12c5273ae *R/phenololine.R
+4eaa75f2e49eab9f42002286b24fdbf9 *R/riceCH_eg.R
+708c6bf38e4d0c0084a8803256008299 *README.md
+bdad5015cf642a758478d88c2049c5aa *build/vignette.rds
+bf6f23db6d5c1214e505c8efc0c67e6f *data/riceCH_eg.rda
+5f56bf7be68b6bf1e22808a9636ba964 *inst/doc/logisLateDicr.R
+a74951c65b1527f17b3eda93cb495977 *inst/doc/logisLateDicr.Rmd
+2c8568957b4cd3984edcec20a6f1ccf3 *inst/doc/logisLateDicr.html
+83d0a972b8aecb0eb54b90df90e2d45e *man/logisLateDicr.Rd
+4bda39ce1eecdd64624e2f35c2f6b0c1 *man/phenololine.Rd
+cb5a0e65b00d4021e948180fa6551356 *man/riceCH_eg.Rd
+a74951c65b1527f17b3eda93cb495977 *vignettes/logisLateDicr.Rmd
